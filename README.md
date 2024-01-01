@@ -1,4 +1,4 @@
-#Webpage Design Document Introduction
+###Webpage Design Document Introduction
 
 This document outlines the structure and styling of a webpage using HTML and CSS. The provided code represents the styling for a home page with various elements like images, text, and styled containers.
 
