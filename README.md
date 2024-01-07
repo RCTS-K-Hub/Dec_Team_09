@@ -34,20 +34,17 @@ DESKTOP VIEW
 
 
 
-![Screenshot (162)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/af51dd60-2b77-4ebd-91f0-2a6e05d338ae)
-
+![Screenshot (162)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/ece4aae8-372d-4d8c-b34a-22a174e95037)
 
 
 
 
 
 TAB VIEW
+![Screenshot (163)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/c2682913-50da-4dc7-b27b-8093c9880d0d)
 
 
 
-
-
-![Screenshot (163)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/2b88c823-0119-4995-be96-a894ca1bc784)
 
 
 
