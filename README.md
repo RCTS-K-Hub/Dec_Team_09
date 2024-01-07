@@ -47,7 +47,7 @@ TAB VIEW
 
 
 
-![Screenshot (163)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/019cc548-7daf-4a2a-849a-17733e73cf45)
+![Screenshot (163)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/2b88c823-0119-4995-be96-a894ca1bc784)
 
 
 
@@ -56,7 +56,7 @@ MOBILE VIEW
 
 
 
-![Screenshot (164)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/2bdee1e9-a5e6-4d22-adba-a4d5b38cbb36)
+
 
 
 Images A notable aspect of the webpage design is the integration of external images hosted on the web. These images play a crucial role in enhancing the visual appeal and conveying information effectively. Key uses of external images include:
