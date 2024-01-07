@@ -26,13 +26,29 @@ Font Styles, Sizes, and Colors: Text elements are meticulously styled with a tho
 
 Responsive Design Adjustments: The CSS code is crafted to adapt gracefully to different screen sizes. Particularly noteworthy is the implementation of a media query, which triggers responsive design adjustments for screens with a maximum width of 600 pixels. This thoughtful approach ensures that the webpage remains user-friendly and visually appealing across a spectrum of devices.
 
-Responsive Design The embedded media query within the CSS code plays a pivotal role in achieving a responsive design tailored for smaller screens. Specifically addressing screens with a maximum width of 600 pixels, this media query orchestrates adjustments in the positioning and width of elements, with a particular focus on enhancing the user experience on compact devices. Notably, elements such as the "overlap" section are intelligently modified to ensure optimal visibility and usability on smaller screens. This commitment to responsive design principles reflects a dedication to providing a seamless and enjoyable browsing experience across diverse devices.
+Responsive Design The embedded media query within the CSS code plays a pivotal role in achieving a responsive design tailored for smaller screens. Specifically addressing screens with a maximum width of 600 pixels, this media query orchestrates adjustments in the positioning and width of elements, with a particular focus on enhancing the user experience on compact devices. Notably, elements such as the "overlap" section are intelligently modified to ensure optimal visibility and usability on smaller screens. This commitment to responsive design principles reflects a dedication to providing a seamless and enjoyable bro!
+wsing experience across diverse devices.
 
 DESKTOP VIEW
+
+
+
+
+![Screenshot (162)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/af51dd60-2b77-4ebd-91f0-2a6e05d338ae)
+
+
+
 
 Laptop
 
 TAB VIEW
+
+
+
+
+
+
+
 
 Tab
 
