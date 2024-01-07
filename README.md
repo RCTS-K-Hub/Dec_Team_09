@@ -41,11 +41,12 @@ DESKTOP VIEW
 
 
 TAB VIEW
-![Screenshot (163)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/c2682913-50da-4dc7-b27b-8093c9880d0d)
 
 
 
 
+
+![Screenshot (163)](https://github.com/RCTS-K-Hub/Dec_Team_09/assets/112403902/2c324bf8-6081-42d4-98ad-8154bf058068)
 
 
 
